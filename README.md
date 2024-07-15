@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi, I'm <span style="color:lightblue">Vicky Prayudha</span> 👋</h1>
-  
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VDpraja" alt="Visitor Count"/>
+</div>
 
 ## <div align="center">Github Stats</div>
 <div align="center">
@@ -36,5 +37,4 @@
   <a href="https://www.youtube.com/@vickyprayudha_">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VDpraja" alt="Visitor Count"/>
 </div>
