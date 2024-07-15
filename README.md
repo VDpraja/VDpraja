@@ -15,26 +15,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VDpraja&theme=dark" alt="GitHub Streak"/>
 </div>
 
+## <div align="center">Advanced GitHub Stats</div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VDpraja&color=blue" alt="Profile Views"/>
-  <a href="https://www.youtube.com/channel/UC1Fm0bKh4MiiRmMfe3qeggw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1Fm0bKh4MiiRmMfe3qeggw?style=flat&logo=youtube">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Advanced GitHub Stats"/>
 </div>
 
 ## <div align="center">Trophies</div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VDpraja&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-## <div align="center">Activity Graph</div>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=VDpraja&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</div>
-
-## <div align="center">Advanced GitHub Stats</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Advanced GitHub Stats"/>
 </div>
 
 ## <div align="center">Follow Me</div>
@@ -53,5 +41,12 @@
   </a>
   <a href="https://www.youtube.com/@vickyprayudha_">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VDpraja&color=blue" alt="Profile Views"/>
+  <a href="https://www.youtube.com/channel/UC1Fm0bKh4MiiRmMfe3qeggw">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1Fm0bKh4MiiRmMfe3qeggw?style=flat&logo=youtube">
   </a>
 </div>
