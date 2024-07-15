@@ -1,14 +1,22 @@
 # Hi, I'm Vicky Prayudha 👋
 
 ## GitHub Stats
-![Vicky Prayudha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VDpraja&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VDpraja&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark" alt="Vicky Prayudha's GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDpraja&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VDpraja&theme=dark" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VDpraja&color=blue" alt="Profile Views"/>
   <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=VDpraja.visitor-badge" alt="Visitor Count"/>
+  <img src="https://hits.sh/github.com/VDpraja/hits.svg" alt="Visitor Count"/>
 </div>
 
 ## Follow Me
