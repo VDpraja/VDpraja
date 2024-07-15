@@ -1,11 +1,15 @@
 # Hi, I'm Vicky Prayudha 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=VDpraja&color=blue)
-
 ## GitHub Stats
 ![Vicky Prayudha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VDpraja&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VDpraja&theme=dark)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VDpraja&color=blue" alt="Profile Views"/>
+  <br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=VDpraja.visitor-badge" alt="Visitor Count"/>
+</div>
 
 ## Follow Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vickyprayudhaa@gmail.com)
