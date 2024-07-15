@@ -1,8 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm <span style="color:lightblue">Vicky Prayudha</span> 👋</h1>
+  <h1>Hi, I'm Vicky Prayudha 👋</h1>
 </div>
-
-
 
 ## <div align="center">Github Stats</div>
 <div align="center">
