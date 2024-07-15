@@ -41,3 +41,5 @@
     </a>
   </div>
 </div>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
