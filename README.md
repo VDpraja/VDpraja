@@ -2,6 +2,8 @@
   <h1>Hi, I'm <span style="color:lightblue">Vicky Prayudha</span> 👋</h1>
 </div>
 
+
+
 ## <div align="center">Github Stats</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark" alt="Vicky Prayudha's GitHub Stats"/>
@@ -13,11 +15,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VDpraja&theme=dark" alt="GitHub Streak"/>
-</div>
-
-## <div align="center">Advanced GitHub Stats</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Advanced GitHub Stats"/>
 </div>
 
 ## <div align="center">Trophies</div>
