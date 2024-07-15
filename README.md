@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <span style="color:blue">Vicky Prayudha</span> 👋</h1>
 
 
-## GitHub Stats
+## <div align="center">Github Stats</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark" alt="Vicky Prayudha's GitHub Stats"/>
 </div>
