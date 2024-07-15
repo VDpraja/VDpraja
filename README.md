@@ -1,4 +1,7 @@
-# Hi, I'm Vicky Prayudha 👋
+<h1 align="center">Hi, I'm <span style="color:blue">Vicky Prayudha</span> 👋</h1>
+
+
+
 
 ## GitHub Stats
 <div align="center">
