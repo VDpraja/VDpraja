@@ -4,20 +4,20 @@
 
 ## <div align="center">Github Stats</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark" alt="Vicky Prayudha's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=transparent&hide=prs,issues" alt="Vicky Prayudha's GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDpraja&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDpraja&layout=compact&theme=transparent" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VDpraja&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VDpraja&theme=transparent" alt="GitHub Streak"/>
 </div>
 
 ## <div align="center">Trophies</div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VDpraja&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VDpraja&theme=transparent&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ## <div align="center">Follow Me</div>
