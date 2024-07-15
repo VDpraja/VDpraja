@@ -22,6 +22,21 @@
   </a>
 </div>
 
+## <div align="center">Trophies</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VDpraja&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+## <div align="center">Activity Graph</div>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=VDpraja&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
+
+## <div align="center">Advanced GitHub Stats</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Advanced GitHub Stats"/>
+</div>
+
 ## <div align="center">Follow Me</div>
 <div align="center">
   <a href="mailto:vickyprayudhaa@gmail.com">
