@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Vicky Prayudha 👋</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&pause=1000&color=06B40A&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Vicky+Prayudha" alt="Typing SVG" /></a>
 </div>
 
 ## <div align="center">Github Stats</div>
