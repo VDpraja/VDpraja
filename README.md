@@ -1,7 +1,9 @@
-<div align="center" style="background-color: #e6f7e6; padding: 20px;">
+<img src="https://github.com/VDpraja/VDpraja/blob/main/img/back.png?raw=true" style="position:absolute; width:100%; height:100%; z-index:-1; top:0; left:0;" />
+
+<div align="center" style="background-color: rgba(230, 247, 230, 0.85); padding: 20px; position:relative; z-index:1;">
   <h1>Hi, I'm <span style="color:blue">Vicky Prayudha</span> 👋</h1>
 
- ## <div align="center">Github Stats</div>
+  ## <div align="center">Github Stats</div>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=dark" alt="Vicky Prayudha's GitHub Stats"/>
   </div>
@@ -20,7 +22,7 @@
     <img src="https://hits.sh/github.com/VDpraja/hits.svg" alt="Visitor Count"/>
   </div>
 
-  ## Follow Me
+  ## <div align="center">Follow Me</div>
   <div align="center">
     <a href="mailto:vickyprayudhaa@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
