@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi, I'm <span style="color:lightblue">Vicky Prayudha</span> 👋</h1>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VDpraja" alt="Visitor Count"/>
 </div>
 
 ## <div align="center">Github Stats</div>
@@ -18,6 +17,9 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VDpraja&color=blue" alt="Profile Views"/>
+  <a href="https://www.youtube.com/channel/UC1Fm0bKh4MiiRmMfe3qeggw">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1Fm0bKh4MiiRmMfe3qeggw?style=flat&logo=youtube">
+  </a>
 </div>
 
 ## <div align="center">Follow Me</div>
