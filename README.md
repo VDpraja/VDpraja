@@ -4,15 +4,15 @@
 
 ## <div align="center">Github Stats</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=transparent&hide=prs,issues" alt="Vicky Prayudha's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VDpraja&show_icons=true&theme=transparent&hide=prs,issues&count_private=true" alt="Vicky Prayudha's GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDpraja&layout=compact&theme=transparent" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDpraja&layout=compact&theme=transparent&count_private=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VDpraja&theme=transparent" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VDpraja&theme=transparent&count_private=true" alt="GitHub Streak"/>
 </div>
 
 ## <div align="center">Trophies</div>
