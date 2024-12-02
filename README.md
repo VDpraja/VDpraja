@@ -22,9 +22,6 @@
 
 ## <div align="center">Follow Me</div>
 <div align="center">
-  <a href="mailto:vickyprayudhaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://discord.gg/8nkn2vy">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
